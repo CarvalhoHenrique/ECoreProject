@@ -10,7 +10,8 @@ QA Automation Assessment
 - JUnit
 #Sobre o teste:
 
-- As funcionalidades testadas sâo: login (positivo e negativo) e validação de dados no Invoice Details
+As funcionalidades testadas sâo: 
+- login (positivo e negativo) e validação de dados no Invoice Details
 
 #Para executar o teste:
 
